@@ -1,2 +1,5 @@
 # python environment files
 env/*
+
+*.zip
+*.csv
